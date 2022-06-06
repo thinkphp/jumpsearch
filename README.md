@@ -5,4 +5,4 @@ In computer science, a jump search or block search refers to a search algorithm 
 ## Implementations
 
 * https://ideone.com/rEcSUV (python language)
-* https://ideone.com/Zl1VpX (l language)
+* https://ideone.com/Zl1VpX (C language)
